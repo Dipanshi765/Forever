@@ -1,3 +1,1 @@
-@tqilwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
